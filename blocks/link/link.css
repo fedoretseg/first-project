@@ -1,9 +1,9 @@
-.logo {
+.link {
   opacity: 1;
   transition: opacity 0.3s, visibility 0s linear 0.3s;
 }
 
-.logo:hover {
+.link:hover {
   opacity: .5;
   transition-delay: 0s;
 }
